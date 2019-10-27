@@ -1,8 +1,5 @@
 <!-- font: frutiger -->
-
-![](/Images/LiU_secondary_1_black.png =250x)
-![](/Images/LogoAICompetence.png =250x)
-
+<img src="/Images/LiU_secondary_1_black.png" alt="LiU logo" width="200"/><img src="/Images/LogoAICompetence.png" alt="AI Sweden logo" width="200"/>
 
 ### Course information
 **The typical participant** has a degree in engineering, finance or other quantitative fields. We recommend that participants have taken at least one course in each of the following subjects:
