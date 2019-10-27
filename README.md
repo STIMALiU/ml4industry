@@ -1,6 +1,6 @@
 <!-- font: frutiger -->
 
-<img src="/Images/LiU_secondary_1_black.png" alt="LiU logo" align="left" height="50"/><img src="/Images/MachineLearning.jpg" alt="Course logo" align="middle" height="50"/><img src="/Images/LogoAICompetence.png" alt="AI Sweden logo" align="right" height="50"/>
+<img src="/Images/LiU_secondary_1_black.png" alt="LiU logo" align="left" height="150"/><img src="/Images/MachineLearning.jpg" alt="Course logo" align="middle" height="150"/><img src="/Images/LogoAICompetence.png" alt="AI Sweden logo" align="right" height="150"/>
 
 ---
 
