@@ -1,7 +1,7 @@
 <!-- font: frutiger -->
 
-![](/Images/LiU_secondary_1_black.png "ML for industry")
-![](/Images/LogoAICompetence.png "ML for industry")
+![](/Images/LiU_secondary_1_black.png =250x)
+![](/Images/LogoAICompetence.png =250x)
 
 
 ### Course information
