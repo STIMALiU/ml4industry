@@ -6,66 +6,77 @@
 
 #### Topic 1 - Introduction to Machine Learning. Regularized Regression.
 
-**Lecture 1 - Basic ML principles and regularized regression** \
+**Lecture block 1 - Basic ML principles and regularized regression** \
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
 Code: [PDSH: feature construction](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb)
 Other material: \
 Software:
 
-**Lecture 2 - Trees, forests and beyond** \
+**Lecture block 2 - Trees, forests and beyond** \
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
 Code: [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) \
 Other material: \
 Software:
 
+Lecturer: Mattias Villani \
+Lab assistants: Amanda Olmin and Caroline Svahn
+
 ---
 
 #### Topic 2 - Classification
 
-**Lecture 3 - Learning and Classification** \
+**Lecture block 3 - Learning and Classification** \
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
 Code: \
 Other material: \
 Software:
 
-**Lecture 4 - Unsupervised learning** \
+**Lecture block 4 - Unsupervised learning** \
 Reading: [Slides](/Slides/L4Unsupervised.pdf) | Chapters 9.1-9.2 in [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf). \
 Code: [PDSH: k-means](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb) | [PDSH: Gaussian mixture models](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb) \
 Other material: \
 Software:
 
+Lecturer: Mattias Villani \
+Lab assistants: Amanda Olmin and Caroline Svahn
+
 ---
 
 #### Topic 3 - Neural Networks and Deep Learning
 
-**Lecture 5 - XXX** \
+**Lecture block 5 - XXX** \
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
 Code: \
 Other material: \
 Software:
 
-**Lecture 6 - XXX** \
+**Lecture block 6 - XXX** \
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
 Code: \
 Other material: \
 Software:
+
+Lecturer: Anders Eklund \
+Lab assistant: David Abramian
 
 ---
 
 #### Topic 4 - Reinforcement Learning.
 
-**Lecture 7 - XXX** \
+**Lecture block 7 - XXX** \
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
 Code: \
 Other material: \
 Software:
 
-**Lecture 8 - XXX** \
+**Lecture block 8 - XXX** \
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
 Code: \
 Other material: \
 Software:
 
+Lecturer: Jose Pena \
+Lab assistant: Joel Oskarsson
 
 ---
 
@@ -121,8 +132,6 @@ Focus: Machine Learning and Reinforcement Learning
 * programming
 
 **Examination and Grades**: The report from each computer lab will be graded Pass or Fail. Successful completion of all five labs gives the grade Pass on the whole course.
-
----
 
 **Course organization**
 The course is organized in four topics, each containing six lecture hours and a computer lab.
