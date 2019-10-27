@@ -99,7 +99,7 @@ Other material: \
 Software:
 
 **Lecture 4 - Unsupervised learning ** \
-Reading: [Slides](SLIDES) | Chapters 9.1-9.2 in [PRML](book). \
+Reading: [Slides](/Slides/L4Unsupervised.pdf) | Chapters 9.1-9.2 in [PRML](book). \
 Code: [PDSH: k-means](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb) | [PDSH: Gaussian mixture models](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb) \
 Other material: \
 Software:
