@@ -1,7 +1,7 @@
 <!-- font: frutiger -->
 
-![](/Images/LiU_secondary_1_black.png =250x "ML for industry")
-
+![](/Images/LiU_secondary_1_black.png "ML for industry")
+![](/Images/LogoAICompetence.png "ML for industry")
 
 
 ### Course information
@@ -76,21 +76,21 @@ Focus: Machine Learning and Reinforcement Learning
 
 #### Topic 1 - Introduction to Machine Learning. Regularized Regression.
 
-**Lecture 1 - Basic ML principles´ and regularized regression** \
+**Lecture 1 - Basic ML principles and regularized regression** \
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
 Code: [PDSH: feature construction](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb)
 Other material: \
 Software:
 
-**Lecture 2 - Trees, forests and beyond ** \
+**Lecture 2 - Trees, forests and beyond** \
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
-Code: [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb)
+Code: [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) \
 Other material: \
 Software:
 
 ---
 
-#### Topic 2 - Classification \
+#### Topic 2 - Classification
 
 **Lecture 3 - Learning and Classification** \
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
@@ -136,9 +136,5 @@ Code: \
 Other material: \
 Software:
 
-Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
-Code: \
-Other material: \
-Software:
 
 ---
