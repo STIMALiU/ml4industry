@@ -1,6 +1,6 @@
 <!-- font: frutiger -->
 
-![](Slides/images/MachineLearning.jpg "ML for industry")
+![](Images/LiU_secondary_1_black.png "ML for industry")
 
 
 
@@ -99,7 +99,7 @@ Other material: \
 Software:
 
 **Lecture 4 - Unsupervised learning ** \
-Reading: [Slides](/Slides/L4Unsupervised.pdf) | Chapters 9.1-9.2 in [PRML](book). \
+Reading: [Slides](/Slides/L4Unsupervised.pdf) | Chapters 9.1-9.2 in [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf). \
 Code: [PDSH: k-means](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb) | [PDSH: Gaussian mixture models](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb) \
 Other material: \
 Software:
