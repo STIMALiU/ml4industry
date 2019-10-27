@@ -33,15 +33,15 @@ The course is examined on the basis of the submitted lab reports on a fail-pass 
 ##### Lecturers
 [**Mattias Villani**](https://www.mattiasvillani.com/) \
 Professor of Statistics \
-Specializes in Bayesian Statistics and Machine Learning
+Focus: Bayesian Statistics and Machine Learning
 
 [**Jose Pena**](https://www.ida.liu.se/~jospe50/) \
 Associate Professor in Computer Science \
-Specializes in Graphical Models and Causality
+Focus: Graphical Models and Causality
 
 [**Anders Eklund**](https://liu.se/en/employee/andek67) \
 Associate Professor in Medical Informatics \
-Specializes in Deep Learning and Neuroimaging
+Focus: Deep Learning and Neuroimaging
 
 
 
@@ -50,19 +50,19 @@ Specializes in Deep Learning and Neuroimaging
 
 [**Caroline Svahn**](https://liu.se/en/employee/andek67) \
 WASP Industrial PhD student in Statistics \
-Specializes in Machine Learning for 5G networks
+Focus: Machine Learning for 5G networks
 
 [**Amanda Olmin**](https://liu.se/en/employee/andek67) \
 WASP PhD student in Statistics \
-Specializes in Deep Learning and Bayesian Machine Learning
+Focus: Deep Learning and Bayesian Machine Learning
 
 [**David Abramian**](https://liu.se/en/employee/andek67) \
 Phd student in Medical Informatics \
-Specializes in Machine Learning for Neuroimaging
+Focus: Machine Learning for Neuroimaging
 
 [**Joel Oskarsson**](https://liu.se/en/employee/andek67) \
 Master student in Applied Physics and Electrical Engineering\
-Specializes in Machine Learning and Reinforcement Learning
+Focus: Machine Learning and Reinforcement Learning
 
 ---
 
@@ -106,7 +106,7 @@ Software:
 
 ---
 
-##### Topic 3 - Neural Networks and Deep Learning 
+##### Topic 3 - Neural Networks and Deep Learning
 
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
 Code: \
@@ -124,4 +124,3 @@ Other material: \
 Software:
 
 ---
-
