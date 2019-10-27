@@ -105,19 +105,19 @@ Focus: Deep Learning and Neuroimaging
 
 ##### Lab assistants
 
-[**Caroline Svahn**](https://liu.se/en/employee/andek67) \
+[**Caroline Svahn**](https://liu.se/medarbetare/carsv14) \
 WASP Industrial PhD student in Statistics \
 Focus: Machine Learning for 5G networks
 
-[**Amanda Olmin**](https://liu.se/en/employee/andek67) \
+[**Amanda Olmin**](https://liu.se/en/employee/amaol67) \
 WASP PhD student in Statistics \
 Focus: Deep Learning and Bayesian Machine Learning
 
-[**David Abramian**](https://liu.se/en/employee/andek67) \
+[**David Abramian**](https://liu.se/en/employee/davab27) \
 Phd student in Medical Informatics \
 Focus: Machine Learning for Neuroimaging
 
-[**Joel Oskarsson**](https://liu.se/en/employee/andek67) \
+[**Joel Oskarsson**](https://se.linkedin.com/in/joel-oskarsson) \
 Master student in Applied Physics and Electrical Engineering\
 Focus: Machine Learning and Reinforcement Learning
 
