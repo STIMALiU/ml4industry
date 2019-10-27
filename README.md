@@ -1,6 +1,6 @@
 <!-- font: frutiger -->
 
-![](Images/LiU_secondary_1_black.png "ML for industry")
+![](/Images/LiU_secondary_1_black.png =250x "ML for industry")
 
 
 
@@ -90,15 +90,15 @@ Software:
 
 ---
 
-##### Topic 2 - Classification
+#### Topic 2 - Classification \
 
-**Lecture 3 - Learning and Classification ** \
+**Lecture 3 - Learning and Classification** \
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
 Code: \
 Other material: \
 Software:
 
-**Lecture 4 - Unsupervised learning ** \
+**Lecture 4 - Unsupervised learning** \
 Reading: [Slides](/Slides/L4Unsupervised.pdf) | Chapters 9.1-9.2 in [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf). \
 Code: [PDSH: k-means](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb) | [PDSH: Gaussian mixture models](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb) \
 Other material: \
@@ -106,17 +106,35 @@ Software:
 
 ---
 
-##### Topic 3 - Neural Networks and Deep Learning
+#### Topic 3 - Neural Networks and Deep Learning
 
+**Lecture 5 - XXX** \
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
 Code: \
 Other material: \
 Software:
 
+**Lecture 6 - XXX** \
+Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+Code: \
+Other material: \
+Software:
 
 ---
 
-##### Topic 4 - Reinforcement Learning.
+#### Topic 4 - Reinforcement Learning.
+
+**Lecture 7 - XXX** \
+Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+Code: \
+Other material: \
+Software:
+
+**Lecture 8 - XXX** \
+Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+Code: \
+Other material: \
+Software:
 
 Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
 Code: \
