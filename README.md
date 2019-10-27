@@ -1,37 +1,127 @@
-## Welcome to GitHub Pages
+<!-- font: frutiger -->
 
-You can use the [editor on GitHub](https://github.com/STIMALiU/ml4industry.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![](Slides/images/MachineLearning.jpg "ML for industry")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Course information
+**The typical participant** has a degree in engineering, finance or other quantitative fields. We recommend that participants have taken at least one course in each of the following subjects:
 
-```markdown
-Syntax highlighted code block
+* linear algebra
+* calculus
+* statistics
+* programming
 
-# Header 1
-## Header 2
-### Header 3
+**Examination**: The report from each computer lab will be graded Pass or Fail. Successful completion of all five labs gives the grade Pass on the whole course.
 
-- Bulleted
-- List
+**Grades**: Pass or Fail.
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+### Course organization
+The course is organized in four topics, each containing six lecture hours and a computer lab.
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Examination
 
-### Jekyll Themes
+The course is examined on the basis of the submitted lab reports on a fail-pass scale.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/STIMALiU/ml4industry.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### Teachers
+##### Lecturers
+[**Mattias Villani**](https://www.mattiasvillani.com/) \
+Professor of Statistics \
+Specializes in Bayesian Statistics and Machine Learning
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[**Jose Pena**](https://www.ida.liu.se/~jospe50/) \
+Associate Professor in Computer Science \
+Specializes in Graphical Models and Causality
+
+[**Anders Eklund**](https://liu.se/en/employee/andek67) \
+Associate Professor in Medical Informatics \
+Specializes in Deep Learning and Neuroimaging
+
+
+
+
+##### Lab assistants
+
+[**Caroline Svahn**](https://liu.se/en/employee/andek67) \
+WASP Industrial PhD student in Statistics \
+Specializes in Machine Learning for 5G networks
+
+[**Amanda Olmin**](https://liu.se/en/employee/andek67) \
+WASP PhD student in Statistics \
+Specializes in Deep Learning and Bayesian Machine Learning
+
+[**David Abramian**](https://liu.se/en/employee/andek67) \
+Phd student in Medical Informatics \
+Specializes in Machine Learning for Neuroimaging
+
+[**Joel Oskarsson**](https://liu.se/en/employee/andek67) \
+Master student in Applied Physics and Electrical Engineering\
+Specializes in Machine Learning and Reinforcement Learning
+
+---
+
+### Course literature
+
+  * Bishop, C. M., [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006. **[PRML]**
+  * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), O'Reilly, 2016. **[PDSH]**
+  * Other material distributed on this web page under each topic.
+
+---
+
+#### Topic 1 - Introduction to Machine Learning. Regularized Regression.
+
+**Lecture 1 - Basic ML principles´ and regularized regression** \
+Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+Code: [PDSH: feature construction](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb)
+Other material: \
+Software:
+
+**Lecture 2 - Trees, forests and beyond ** \
+Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+Code: [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb)
+Other material: \
+Software:
+
+---
+
+##### Topic 2 - Classification
+
+**Lecture 3 - Learning and Classification ** \
+Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+Code: \
+Other material: \
+Software:
+
+**Lecture 4 - Unsupervised learning ** \
+Reading: [Slides](SLIDES) | Chapters 9.1-9.2 in [PRML](book). \
+Code: [PDSH: k-means](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb) | [PDSH: Gaussian mixture models](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb) \
+Other material: \
+Software:
+
+---
+
+##### Topic 3 - Neural Networks and Deep Learning 
+
+Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+Code: \
+Other material: \
+Software:
+
+
+---
+
+##### Topic 4 - Reinforcement Learning.
+
+Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+Code: \
+Other material: \
+Software:
+
+---
+
