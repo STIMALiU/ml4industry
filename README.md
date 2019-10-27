@@ -1,5 +1,8 @@
 <!-- font: frutiger -->
-<img src="/Images/LiU_secondary_1_black.png" alt="LiU logo" align="left" width="200"/><img src="/Images/MachineLearning.jpg" alt="Course logo" align="middle" width="200"/><img src="/Images/LogoAICompetence.png" alt="AI Sweden logo" align="right" width="200"/>
+
+<img src="/Images/LiU_secondary_1_black.png" alt="LiU logo" align="left" height="50"/><img src="/Images/MachineLearning.jpg" alt="Course logo" align="middle" height="50"/><img src="/Images/LogoAICompetence.png" alt="AI Sweden logo" align="right" height="50"/>
+
+---
 
 ### Course information
 **The typical participant** has a degree in engineering, finance or other quantitative fields. We recommend that participants have taken at least one course in each of the following subjects:
