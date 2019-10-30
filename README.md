@@ -15,7 +15,7 @@ Code: \
 Other material:
 
 **Lecture block 2 - Trees, forests and beyond** \
-Reading: [Slides](SLIDES) | [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) | [ESL: 9.2, 10.1-10.3] | [XGboost article](http://cinslab.com/wp-content/uploads/2019/06/Ke-Wang-XGBoost-A-Scalable-Tree-Boosting-System.pdf)\
+Reading: [Slides](SLIDES) | [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) | [ESL: 9.2, 10.1-10.3](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) | [XGboost article](http://cinslab.com/wp-content/uploads/2019/06/Ke-Wang-XGBoost-A-Scalable-Tree-Boosting-System.pdf)\
 Code: \
 Other material:
 
