@@ -103,7 +103,7 @@ Lab assistant: Joel Oskarsson
 Professor of Statistics \
 Focus: Bayesian Statistics and Machine Learning
 
-[**Jose Pena**](https://www.ida.liu.se/~jospe50/) \
+[**Jose M. Peña**](https://www.ida.liu.se/~jospe50/) \
 Associate Professor in Computer Science \
 Focus: Graphical Models and Causality
 
