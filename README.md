@@ -15,7 +15,7 @@ Code: \
 Other material:
 
 **Lecture block 2 - Trees, forests and beyond** \
-Reading: [Slides](SLIDES) | [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) \
+Reading: [Slides](SLIDES) | [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) | [ESL: 9.2, 10.1-10.3] | [XGboost article](http://cinslab.com/wp-content/uploads/2019/06/Ke-Wang-XGBoost-A-Scalable-Tree-Boosting-System.pdf)\
 Code: \
 Other material:
 
@@ -64,6 +64,7 @@ Lab assistant: David Abramian
 </div><br>
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 30px; margin-top:10px">
+
 ### Topic 4 - Reinforcement Learning
 
 **Lecture block 7 - XXX** \
@@ -82,15 +83,18 @@ Lab assistant: Joel Oskarsson
 </div><br>
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 30px; margin-top:10px">
+
 ### Course literature
 
-  * Bishop, C. M., [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006. **[PRML]**
-  * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), O'Reilly, 2016. **[PDSH]**
+  * Bishop [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006. **[PRML]**
+  * VanderPlas [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), O'Reilly, 2016. **[PDSH]**
+  * Hastie, Tibshirani, Friedman [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), Springer, 2008. **[ESL]**
   * Other material distributed on this web page under each topic.
 
 </div><br>
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 30px; margin-top:10px">
+
 ### Teachers
 <br>
 
