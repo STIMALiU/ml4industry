@@ -77,7 +77,7 @@ Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
 Code: \
 Other material:
 
-Lecturer: Jose Pena \
+Lecturer: Jose M. Peña \
 Lab assistant: Joel Oskarsson
 
 </div><br>
@@ -89,6 +89,7 @@ Lab assistant: Joel Oskarsson
   * Bishop [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006. **[PRML]**
   * VanderPlas [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), O'Reilly, 2016. **[PDSH]**
   * Hastie, Tibshirani, Friedman [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), Springer, 2008. **[ESL]**
+  * Sutton, Barto [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html), MIT Press, 2018. **[RLI]**
   * Other material distributed on this web page under each topic.
 
 </div><br>
