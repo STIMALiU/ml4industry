@@ -68,12 +68,12 @@ Lab assistant: David Abramian
 ### Topic 4 - Reinforcement Learning
 
 **Lecture block 7 - XXX** \
-Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+Reading: [Slides](SLIDES) | Chapters 1-7 in [RLI](http://incompleteideas.net/book/the-book.html). \
 Code: \
 Other material:
 
 **Lecture block 8 - XXX** \
-Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+Reading: [Slides](SLIDES) | Chapters 9, 10, 12, 13 and 16 in [RLI](http://incompleteideas.net/book/the-book.html). \
 Code: \
 Other material:
 
