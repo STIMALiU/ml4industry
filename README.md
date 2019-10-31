@@ -68,16 +68,16 @@ Lab assistant: David Abramian
 ### Topic 4 - Reinforcement Learning
 
 **Lecture block 7 - XXX** \
-Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+Reading: [Slides](SLIDES) | Chapters 1-7 in [RLI](http://incompleteideas.net/book/the-book.html). \
 Code: \
 Other material:
 
 **Lecture block 8 - XXX** \
-Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+Reading: [Slides](SLIDES) | Chapters 9, 10, 12, 13 and 16 in [RLI](http://incompleteideas.net/book/the-book.html). \
 Code: \
 Other material:
 
-Lecturer: Jose Pena \
+Lecturer: Jose M. Peña \
 Lab assistant: Joel Oskarsson
 
 </div><br>
@@ -89,6 +89,7 @@ Lab assistant: Joel Oskarsson
   * Bishop [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006. **[PRML]**
   * VanderPlas [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), O'Reilly, 2016. **[PDSH]**
   * Hastie, Tibshirani, Friedman [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), Springer, 2008. **[ESL]**
+  * Sutton, Barto [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html), MIT Press, 2018. **[RLI]**
   * Other material distributed on this web page under each topic.
 
 </div><br>
@@ -103,7 +104,7 @@ Lab assistant: Joel Oskarsson
 Professor of Statistics \
 Focus: Bayesian Statistics and Machine Learning
 
-[**Jose Pena**](https://www.ida.liu.se/~jospe50/) \
+[**Jose M. Peña**](https://www.ida.liu.se/~jospe50/) \
 Associate Professor in Computer Science \
 Focus: Graphical Models and Causality
 
