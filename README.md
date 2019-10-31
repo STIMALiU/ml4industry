@@ -5,26 +5,20 @@
 ---
 
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 30px; margin-top:10px">
-
 ### Topic 1 - Introduction to Machine Learning. Regularized Regression.
 
 **Lecture block 1 - Basic ML principles and regularized regression** \
 Reading: [Slides](SLIDES) | Chapters 1.1-1.3, 3.1-3.2 in [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [PDSH: what is ML?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | [PDSH: intro to scikit-learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | [PDSH: hyperparameters and model validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html) | [PDSH: feature construction](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb) \
-Lab: [Problem 1](./Labs/Lab1a.ipynb) and [Data for Problem 1](./Labs/DataLab1a.npz)| [Problem 2](./Labs/Lab1b.ipynb) \
-Other material:
 
 **Lecture block 2 - Trees, forests and beyond** \
 Reading: [Slides](SLIDES) | [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) | [ESL: 9.2, 10.1-10.3](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) | [XGboost article](http://cinslab.com/wp-content/uploads/2019/06/Ke-Wang-XGBoost-A-Scalable-Tree-Boosting-System.pdf)\
-Code: \
-Other material:
+
+**Computer lab 1 - Regularized regression and Tree models**
+[Problem 1](./Labs/Lab1a.ipynb) and [Data for Problem 1](./Labs/DataLab1a.npz)\
+[Problem 2](./Labs/Lab1b.ipynb) \
 
 Lecturer: [Mattias Villani](https://mattiasvillani.com) \
 Lab assistants: [Amanda Olmin](https://liu.se/en/employee/amaol67) and [Caroline Svahn](https://liu.se/medarbetare/carsv14)
-
-</div><br>
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 30px; margin-top:10px">
 
 ### Topic 2 - Classification
 
@@ -38,13 +32,11 @@ Reading: [Slides](/Slides/L4Unsupervised.pdf) | Chapters 9.1-9.2 in [PRML](https
 Code:  \
 Other material:
 
+**Computer lab 2 - Classification and Mixture models**
+
 Lecturer:  [Mattias Villani](https://mattiasvillani.com) \
 Lab assistants: [Amanda Olmin](https://liu.se/en/employee/amaol67) and [Caroline Svahn](https://liu.se/medarbetare/carsv14)
 
-
-</div><br>
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 30px; margin-top:10px">
 
 ### Topic 3 - Neural Networks and Deep Learning
 
@@ -61,9 +53,6 @@ Other material:
 Lecturer: Anders Eklund \
 Lab assistant: David Abramian
 
-</div><br>
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 30px; margin-top:10px">
 
 ### Topic 4 - Reinforcement Learning
 
@@ -80,9 +69,6 @@ Other material:
 Lecturer: Jose M. Peña \
 Lab assistant: Joel Oskarsson
 
-</div><br>
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 30px; margin-top:10px">
 
 ### Course literature
 
@@ -92,9 +78,6 @@ Lab assistant: Joel Oskarsson
   * Sutton, Barto [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html), MIT Press, 2018. **[RLI]**
   * Other material distributed on this web page under each topic.
 
-</div><br>
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 30px; margin-top:10px">
 
 ### Teachers
 <br>
@@ -132,9 +115,6 @@ Focus: Machine Learning for Neuroimaging
 Master student in Applied Physics and Electrical Engineering\
 Focus: Machine Learning and Reinforcement Learning
 
-</div><br>
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 30px; margin-top:10px">
 
 ### Course information
 **The typical participant** has a degree in engineering, finance or other quantitative fields. We recommend that participants have taken at least one course in each of the following subjects:
@@ -148,5 +128,3 @@ Focus: Machine Learning and Reinforcement Learning
 
 **Course organization**
 The course is organized in four topics, each containing six lecture hours and a computer lab.
-
-</div><br><br>
