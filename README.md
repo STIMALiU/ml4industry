@@ -8,14 +8,14 @@
 ### Topic 1 - Introduction to Machine Learning. Regularized Regression.
 
 **Lecture block 1 - Basic ML principles and regularized regression** \
-Reading: [Slides](SLIDES) | Chapters 1.1-1.3, 3.1-3.2 in [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [PDSH: what is ML?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | [PDSH: intro to scikit-learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | [PDSH: hyperparameters and model validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html) | [PDSH: feature construction](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb) \
+Reading: [Slides](SLIDES) | Chapters 1.1-1.3, 3.1-3.2 in [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [PDSH: what is ML?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | [PDSH: intro to scikit-learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | [PDSH: hyperparameters and model validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html) | [PDSH: feature construction](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb)
 
 **Lecture block 2 - Trees, forests and beyond** \
-Reading: [Slides](SLIDES) | [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) | [ESL: 9.2, 10.1-10.3](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) | [XGboost article](http://cinslab.com/wp-content/uploads/2019/06/Ke-Wang-XGBoost-A-Scalable-Tree-Boosting-System.pdf)\
+Reading: [Slides](SLIDES) | [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) | [ESL: 9.2, 10.1-10.3](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) | [XGboost article](http://cinslab.com/wp-content/uploads/2019/06/Ke-Wang-XGBoost-A-Scalable-Tree-Boosting-System.pdf)
 
-**Computer lab 1 - Regularized regression and Tree models**
+**Computer lab 1 - Regularized regression and Tree models**\
 [Problem 1](./Labs/Lab1a.ipynb) and [Data for Problem 1](./Labs/DataLab1a.npz)\
-[Problem 2](./Labs/Lab1b.ipynb) \
+[Problem 2](./Labs/Lab1b.ipynb)
 
 Lecturer: [Mattias Villani](https://mattiasvillani.com) \
 Lab assistants: [Amanda Olmin](https://liu.se/en/employee/amaol67) and [Caroline Svahn](https://liu.se/medarbetare/carsv14)
@@ -24,13 +24,9 @@ Lab assistants: [Amanda Olmin](https://liu.se/en/employee/amaol67) and [Caroline
 
 **Lecture block 3 - Learning and Classification** \
 Reading: [Slides](SLIDES) | Chapters 1.2.3, 1.2.6 in [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf). \
-Code: \
-Other material:
 
 **Lecture block 4 - Unsupervised learning** \
 Reading: [Slides](/Slides/L4Unsupervised.pdf) | Chapters 9.1-9.2 in [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [PDSH: k-means](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb) | [PDSH: Gaussian mixture models](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb) \
-Code:  \
-Other material:
 
 **Computer lab 2 - Classification and Mixture models**
 
