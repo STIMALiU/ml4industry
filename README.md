@@ -12,7 +12,7 @@ Reading: [Slides](/Slides/L1IntroRegression.pdf) | Chapters 1.1-1.3, 3.1-3.2 in 
 Extras: [Demo linear regression in scikit-learn](./Extras/DemoLinReg.ipynb)
 
 **Lecture block 2 - Trees, forests and beyond** \
-Reading: [Slides](SLIDES) | [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) | [ESL: 9.2, 10.1-10.3](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) | [XGboost article](http://cinslab.com/wp-content/uploads/2019/06/Ke-Wang-XGBoost-A-Scalable-Tree-Boosting-System.pdf)
+Reading: [Slides](/Slides/L2RegTrees.pdf) | [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) | [ESL: 9.2, 10.1-10.3](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) | [XGboost article](http://cinslab.com/wp-content/uploads/2019/06/Ke-Wang-XGBoost-A-Scalable-Tree-Boosting-System.pdf)
 
 **Computer lab 1 - Regularized regression and Tree models**\
 [Problem 1](./Labs/Lab1a.ipynb)\
