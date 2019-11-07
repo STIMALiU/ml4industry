@@ -9,7 +9,7 @@
 
 **Lecture block 1 - Basic ML principles and regularized regression** \
 Reading: [Slides](/Slides/L1IntroRegression.pdf) | Chapters 1.1-1.3, 3.1-3.2 in [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [PDSH: what is ML?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | [PDSH: intro to scikit-learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | [PDSH: hyperparameters and model validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html) | [PDSH: feature construction](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb)\
-Extras: [Demo linear regression in scikit-learn](./Extras/DemoLinReg.ipynb) | [Code Snippets Topic 1](./Extras/CodeSnippetsTopic1.ipynb)
+Extras: [Demo linear regression in scikit-learn](./Extras/DemoLinReg.ipynb) | [Bias-Variance illustration](./Extras/BiasVarianceIllustration.ipynb) | [Variable selection illustration](./Extras/VariableSelection.ipynb)
 
 **Lecture block 2 - Trees, forests and beyond** \
 Reading: [Slides](/Slides/L2RegTrees.pdf) | [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) | [ESL: 9.2, 10.1-10.3](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) | [XGboost article](http://cinslab.com/wp-content/uploads/2019/06/Ke-Wang-XGBoost-A-Scalable-Tree-Boosting-System.pdf)
