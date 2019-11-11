@@ -25,12 +25,14 @@ Lab assistants: [Amanda Olmin](https://liu.se/en/employee/amaol67) and [Caroline
 
 **Lecture block 3 - Learning and Classification** \
 Reading: [Slides](SLIDES) | Chapters 1.2.3, 1.2.6 in [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [PDSH: Naive Bayes](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html) | [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) \
-Extras: [Maximum likelihood optimization](./Extras/MLEbyOptimization.ipynb)
+Extras: [Maximum likelihood optimization](./Extras/MLEbyOptimization.ipynb) | [Real-time digit recognition](https://www.reddit.com/r/dataisbeautiful/comments/dpnmnz/oc_recognizing_handwritten_digits_as_they_are/)
 
 **Lecture block 4 - Unsupervised learning** \
 Reading: [Slides](/Slides/L4Unsupervised.pdf) | Chapters 9.1-9.2 in [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [PDSH: k-means](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb) | [PDSH: Gaussian mixture models](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb)
 
 **Computer lab 2 - Classification and Mixture models**
+[Problem 1](./Labs/Lab2a.ipynb)\
+[Problem 2](./Labs/Lab2b.ipynb)
 
 Lecturer:  [Mattias Villani](https://mattiasvillani.com) \
 Lab assistants: [Amanda Olmin](https://liu.se/en/employee/amaol67) and [Caroline Svahn](https://liu.se/medarbetare/carsv14)
