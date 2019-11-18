@@ -24,7 +24,7 @@ Lab assistants: [Amanda Olmin](https://liu.se/en/employee/amaol67) and [Caroline
 ### Topic 2 - Classification
 
 **Lecture block 3 - Learning and Classification** \
-Reading: [Slides](SLIDES) | Chapters 1.2.3, 1.2.6 in [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [PDSH: Naive Bayes](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html) | [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) \
+Reading: [Slides](/Slides/L3Classification.pdf) | Chapters 1.2.3, 1.2.6 in [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [PDSH: Naive Bayes](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html) | [PDSH: Decision trees and Random forest](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) \
 Extras: [Maximum likelihood optimization](./Extras/MLEbyOptimization.ipynb) | [Real-time digit recognition](https://www.reddit.com/r/dataisbeautiful/comments/dpnmnz/oc_recognizing_handwritten_digits_as_they_are/)
 
 **Lecture block 4 - Unsupervised learning** \
