@@ -40,13 +40,13 @@ Lab assistants: [Amanda Olmin](https://liu.se/en/employee/amaol67) and [Caroline
 
 ### Topic 3 - Neural Networks and Deep Learning
 
-**Lecture block 5 - XXX** \
-Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+**Lecture block 5 - Neural networks and convolutional neural networks** \
+Reading: [Slides](SLIDES) | Chapters 6, 7, 8, 9 in [Deep Learning](https://www.deeplearningbook.org). \
 Code: \
-Other material:
+Other material: [Tensorflow playground](http://playground.tensorflow.org), [Keras documentation](https://keras.io)
 
-**Lecture block 6 - XXX** \
-Reading: [Slides](SLIDES) | Chapters X.X-Y.Y in [Book Name](book). \
+**Lecture block 6 - Generative adversarial networks and recurrent neural networks** \
+Reading: [Slides](SLIDES) | Chapters 10, 11, 20.10.4 in [Deep Learning](https://www.deeplearningbook.org). \
 Code: \
 Other material:
 
@@ -76,6 +76,7 @@ Lab assistant: Joel Oskarsson
   * VanderPlas [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), O'Reilly, 2016. **[PDSH]**
   * Hastie, Tibshirani, Friedman [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), Springer, 2008. **[ESL]**
   * Sutton, Barto [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html), MIT Press, 2018. **[RLI]**
+  * Goodfellow, Bengio, Courville [Deep Learning](https://www.deeplearningbook.org), MIT Press, 2016. **[Deep Learning]**
   * Other material distributed on this web page under each topic.
 
 
