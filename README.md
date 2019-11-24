@@ -50,6 +50,10 @@ Reading: [Slides](SLIDES) | Chapters 10, 11, 20.10.4 in [Deep Learning](https://
 Code: \
 Other material:
 
+**Computer lab 3 - 2D CNNs**\
+[Image classification](./Labs/ )\
+[Image segmentation](./Labs/ )
+
 Lecturer: Anders Eklund \
 Lab assistant: David Abramian
 
