@@ -52,7 +52,7 @@ Other material:
 
 **Computer lab 3 - 2D CNNs**\
 [Image classification](./Labs/Lab3a.ipynb )\
-[Image segmentation](./Labs/Lab3b.ipynb )
+[Image segmentation](./Labs/Lab3b.ipynb ) [Data](https://www.dropbox.com/s/k3k37y3hsr6i46h/SegmentationImages.zip?dl=1)
 
 Lecturer: Anders Eklund \
 Lab assistant: David Abramian
