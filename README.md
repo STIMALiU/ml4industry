@@ -41,7 +41,7 @@ Lab assistants: [Amanda Olmin](https://liu.se/en/employee/amaol67) and [Caroline
 ### Topic 3 - Neural Networks and Deep Learning
 
 **Lecture block 5 - Neural networks and convolutional neural networks** \
-Reading: [Slides](SLIDES) | Chapters 6, 7, 8, 9 in [Deep Learning](https://www.deeplearningbook.org). \
+Reading: [Slides](/Slides/L5NeuralNetworks.pdf) | Chapters 6, 7, 8, 9 in [Deep Learning](https://www.deeplearningbook.org). \
 Code: \
 Other material: [Tensorflow playground](http://playground.tensorflow.org), [Keras documentation](https://keras.io)
 
@@ -51,8 +51,8 @@ Code: \
 Other material:
 
 **Computer lab 3 - 2D CNNs**\
-[Image classification](./Labs/Lab3a.ipynb )\
-[Image segmentation](./Labs/Lab3b.ipynb ) [Data](https://www.dropbox.com/s/k3k37y3hsr6i46h/SegmentationImages.zip?dl=1)
+[Image classification](https://raw.githubusercontent.com/STIMALiU/ml4industry/master/Labs/Lab3a.ipynb)\
+[Image segmentation](https://raw.githubusercontent.com/STIMALiU/ml4industry/master/Labs/Lab3b.ipynb) [Data](https://www.dropbox.com/s/k3k37y3hsr6i46h/SegmentationImages.zip?dl=1)
 
 Lecturer: Anders Eklund \
 Lab assistant: David Abramian
