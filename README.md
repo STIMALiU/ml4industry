@@ -46,13 +46,15 @@ Code: \
 Other material: [Tensorflow playground](http://playground.tensorflow.org), [Keras documentation](https://keras.io)
 
 **Lecture block 6 - Generative adversarial networks and recurrent neural networks** \
-Reading: [Slides](SLIDES) | Chapters 10, 11, 20.10.4 in [Deep Learning](https://www.deeplearningbook.org). \
+Reading: [Slides](/Slides/L6GANsRNNs.pdf) | Chapters 10, 11, 20.10.4 in [Deep Learning](https://www.deeplearningbook.org). \
 Code: \
 Other material:
 
 **Computer lab 3 - 2D CNNs**\
 [Image classification](https://raw.githubusercontent.com/STIMALiU/ml4industry/master/Labs/Lab3a.ipynb)\
 [Image segmentation](https://raw.githubusercontent.com/STIMALiU/ml4industry/master/Labs/Lab3b.ipynb) [Data](https://www.dropbox.com/s/k3k37y3hsr6i46h/SegmentationImages.zip?dl=1)
+
+[Cloud instructions](/Slides/cloud_instructions.pdf)
 
 Lecturer: Anders Eklund \
 Lab assistant: David Abramian
