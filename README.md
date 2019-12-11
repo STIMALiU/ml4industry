@@ -63,14 +63,13 @@ Lab assistant: David Abramian
 ### Topic 4 - Reinforcement Learning
 
 **Lecture block 7 - Q-Learning Algorithm** \
-Reading: [Slides](/Slides/L7RLSuttonBarto.pdf) | Chapters 1-7 in [RLI](http://incompleteideas.net/book/the-book.html). \
-Code: \
-Other material:
+Reading: [Slides](/Slides/L7RLSuttonBarto.pdf) | Chapters 1-7 in [RLI](http://incompleteideas.net/book/the-book.html).
 
 **Lecture block 8 - REINFORCE Algorithm** \
-Reading: [Slides](/Slides/L8RLSuttonBarto.pdf) | Chapters 9, 10, 12, 13 and 16 in [RLI](http://incompleteideas.net/book/the-book.html). \
-Code: \
-Other material:
+Reading: [Slides](/Slides/L8RLSuttonBarto.pdf) | Chapters 9, 10, 12, 13 and 16 in [RLI](http://incompleteideas.net/book/the-book.html).
+
+**Computer lab 4 - Grid worlds**\
+[Lab](https://raw.githubusercontent.com/STIMALiU/ml4industry/master/Labs/Lab4JMP.ipynb)\
 
 Lecturer: Jose M. Peña \
 Lab assistant: Joel Oskarsson
