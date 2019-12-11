@@ -69,7 +69,7 @@ Reading: [Slides](/Slides/L7RLSuttonBarto.pdf) | Chapters 1-7 in [RLI](http://in
 Reading: [Slides](/Slides/L8RLSuttonBarto.pdf) | Chapters 9, 10, 12, 13 and 16 in [RLI](http://incompleteideas.net/book/the-book.html).
 
 **Computer lab 4 - Grid worlds**\
-[Lab](https://raw.githubusercontent.com/STIMALiU/ml4industry/master/Labs/Lab4JMP.ipynb)\
+[Lab](https://raw.githubusercontent.com/STIMALiU/ml4industry/master/Labs/Lab4JMP.ipynb)
 
 Lecturer: Jose M. Peña \
 Lab assistant: Joel Oskarsson
