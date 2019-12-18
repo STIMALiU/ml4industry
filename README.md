@@ -70,6 +70,7 @@ Reading: [Slides](/Slides/L8RLSuttonBarto.pdf) | Chapters 9, 10, 12, 13 and 16 i
 
 **Computer lab 4 - Grid worlds**\
 [Lab](./Labs/Lab4JMP.ipynb)
+[Lab2](./Labs/Lab4JMP2.ipynb)
 
 Lecturer: Jose M. Peña \
 Lab assistant: Joel Oskarsson
